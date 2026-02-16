@@ -1,0 +1,24 @@
+Connection: close
+Content-Length: 1532907
+Server: GitHub.com
+Content-Type: application/octet-stream
+x-origin-cache: HIT
+Last-Modified: Sat, 14 Feb 2026 07:22:20 GMT
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=31556952
+ETag: "699022ac-1763eb"
+expires: Mon, 16 Feb 2026 20:31:22 GMT
+Cache-Control: max-age=600
+x-proxy-cache: MISS
+X-GitHub-Request-Id: 80A6:13102B:31D973:3250C6:69937C42
+Accept-Ranges: bytes
+Age: 0
+Date: Mon, 16 Feb 2026 20:21:22 GMT
+Via: 1.1 varnish
+X-Served-By: cache-fra-eddf8230176-FRA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1771273283.832756,VS0,VE116
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 99cfa163c693c9c7aa394d2209095c82a160ba7a
+
