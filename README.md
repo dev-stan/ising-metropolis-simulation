@@ -1,5 +1,7 @@
 # ising-metropolis-simulation
 
+[Live Demo](https://dev-stan.github.io/ising-metropolis-simulation/)
+
 A high-performance, interactive 2D physics simulation of the **Ising Model** using the **Metropolis-Hastings Algorithm**. Built with Python and Pygame. The Ising Model is a pillar of statistical mechanics used to describe **ferromagnetism** (the strongest, most common form of magnetism). 
 
 It consists of variables called **spins**. Each "atom" has a spin value arranged in a grid:
