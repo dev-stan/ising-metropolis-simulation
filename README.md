@@ -23,7 +23,7 @@ Each atom ($s$) calculates its "comfort level" or energy based on its neighbors 
 
 $$E = -s \left( \sum_{i=1}^{n} \text{neighbors}_i + H \right)$$
 
-* **Stable State (Low Energy):** When an atom matches its neighbors, the product is positive, making the energy **negative** (e.g., $-4$). Nature prefers this. Every atom wants to be "lazy"—it wants to use as little energy as possible!
+* **Stable State (Low Energy):** When an atom matches its neighbors, the product is positive, making the energy **negative** (e.g., $-4$). Nature prefers this. Every atom wants to be "lazy", it wants to use as little energy as possible!
 * **Unstable State (High Energy):** When an atom disagrees with its neighbors (e.g., atom is positive, neighbors are negative), the product is negative, making the energy **positive**
 
 ---
